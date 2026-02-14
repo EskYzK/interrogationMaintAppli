@@ -1,5 +1,11 @@
+Lien du GIT : https://github.com/EskYzK/interrogationMaintAppli
+
 L'application offre à l'utilisateur une possibilité de créer des taches, afficher ces memes taches, ainsi que de changer leur état d'avancement.
 Le CRUD n'est pas entièrement implémenté, et la classe Task peut etre améliorée, avec l'ajout possible d'une date de création.
 
 Des bugs persistent, et doivent etre corrigés, notamment dans le fonctionnement de l'application elle-meme :
-Pour la création de nouvelles taches, un problème de type est présent 
+Pour la création de nouvelles taches, un problème de type est présent. Il faut également corriger la recherche pour le changement d'état d'une tache.
+
+L'implémentation de tests pour les différentes fonctions sont à prévoir.
+
+Dans les perspectives d'amélioration on pourrait compter sur : Un archivage des taches par dossiers, l'ajout d'une date butoire, de membres spécifiques pour chaque tache, etc ...

@@ -38,7 +38,7 @@ export class TaskManager{
                 case "2":{
                     console.log("");
                     const list=this.getAll;
-                    let j=prompt("Quel tache voulez-vous (ID) ?")
+                    let j=prompt("Quelle tache voulez-vous (ID) ?")
                     for(let i=0;i<list.length;i++){
                         if(i=j)
                     }
